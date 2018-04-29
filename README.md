@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FinalProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
@@ -25,3 +26,8 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+||||||| merged common ancestors
+=======
+# RecipeBook
+An Angular 5 Application Developed as part of the Course 'Angular 5 Complete Guide' at Udemy. 
+>>>>>>> 27c1e4a10ee0cd5265450a52d755fb3bd5edba79

@@ -30,4 +30,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # RecipeBook
 An Angular 5 Application Developed as part of the Course 'Angular 5 Complete Guide' at Udemy. 
->>>>>>> 27c1e4a10ee0cd5265450a52d755fb3bd5edba79
+
